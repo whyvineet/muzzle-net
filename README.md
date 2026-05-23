@@ -23,6 +23,9 @@ Min : 0.16582283
 Max : 0.77043164
 ```
 
+### Similarity Distribution
+![img.png](misc/img.png)
+
 ---
 
 ## Research Reference
