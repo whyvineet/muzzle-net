@@ -37,8 +37,6 @@ data/
 models/
 
 # --- IDEs and Editors ---
-# PyCharm / IntelliJ
-.idea/
 # VS Code
 .vscode/
 *.code-workspace
