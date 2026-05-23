@@ -4,3 +4,4 @@ numpy
 pillow
 scikit-learn
 matplotlib
+tqdm
