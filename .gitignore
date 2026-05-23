@@ -1,0 +1,50 @@
+# --- Python Core ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.criteria
+*.pyc
+
+# --- Virtual Environments ---
+# You have a .venv folder; this ensures it stays local
+.venv/
+venv/
+ENV/
+env/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Project Specifics (Based on your Project View) ---
+# Data and Models are usually too large for Git
+data/
+models/
+
+# --- IDEs and Editors ---
+# PyCharm / IntelliJ
+.idea/
+# VS Code
+.vscode/
+*.code-workspace
+# Jupyter
+.jupyter/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
