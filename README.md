@@ -34,6 +34,8 @@ Max : 0.9371778
 
 [Deep Learning-Based Cattle Identification Using Muzzle Pattern Images](https://www.sciencedirect.com/science/article/pii/S2772375525004307)
 
+[Cattle Identification using Muzzle Images and Deep Learning Techniques](https://www.researchgate.net/publication/379574143_Cattle_Identification_using_Muzzle_Images_and_Deep_Learning_Techniques)
+
 ---
 
 ## Dataset Used
