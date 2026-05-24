@@ -12,15 +12,15 @@ Example similarity scores from testing:
 
 **Same Cow**
 ```text
-Mean: 0.856808
-Min : 0.43585542
-Max : 0.97353923
+Mean: 0.935258
+Min : 0.24305052
+Max : 0.99367917
 ```
 **Different Cow**
 ```text
-Mean: 0.5298519
-Min : 0.16582283
-Max : 0.77043164
+Mean: 0.1563636
+Min : -0.57475066
+Max : 0.9371778
 ```
 
 ### Similarity Distribution
